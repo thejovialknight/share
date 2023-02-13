@@ -1,0 +1,7 @@
+﻿  barleans.cpp
+C:\Users\thejo\source\repos\barleans\barleans\barleans.cpp(55,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 174 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  barleans.vcxproj -> C:\Users\thejo\source\repos\barleans\x64\Release\barleans.exe
