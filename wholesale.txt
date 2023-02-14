@@ -1,0 +1,83 @@
+18 months,CBD More! Fresh Mint ,1.1 oz ,$23.99,$47.98,705875802109,FG-10208,FG-10208
+24 months,CBD More! Softgels                                                              ,30 ct  ,$23.99,$47.98,705875802086,FG-10204,FG-10204
+12 months,Seriously Delicious CBD Hemp Oil Chocolate Mint       ,5.7 oz    ,$23.99,$47.98,705875801188,FG-10195,FG-10195
+12 months,Seriously Delicious CBD Hemp Oil Lemon Drop,5.6 oz,$23.99,$47.98,705875802017,FG-10200,FG-10200
+18 months,CBD for Dogs,1.5 oz,$28.79,$57.58,705875802093,FG-10207,FG-10207
+18 months,Extra Strength Ideal CBD Hemp Oil,1.5 oz,$26.99,$53.98,705875800976,FG-10165,FG-10165
+18 months,Ideal CBD Hemp Oil,1.5 oz,$20.99,$41.98,705875801164,FG-10197,FG-10197
+24 months,Ideal CBD Hemp Oil Softgels,30 ct  ,$20.99,$41.98,705875801140,FG-10194,FG-10194
+12 months,Lignan Flax Oil,8 oz,$8.31,$13.99,705875000048,B08HL,FG-10003
+12 months,Lignan Flax Oil,12 oz,$12.50,$20.99,705875000055,B12HL,FG-10007
+12 months,Lignan Flax Oil,16 oz,$15.88,$26.49,705875000161,B16HL,FG-10014
+12 months,Lignan Flax Oil,32 oz,$30.28,$49.99,705875000062,B32HL,FG-10025
+36 months,Lignan Flax Softgels,100 ct,$9.75,$15.99,705875100076,BFC100HL,FG-10079
+36 months,Lignan Flax Softgels,250 ct,$22.58,$36.99,705875100083,BFC250HL,FG-10081
+12 months,Flax Oil,8 oz,$8.15,$13.99,705875000017,B08C,FG-10000
+12 months,Flax Oil,12 oz,$12.32,$20.99,705875000024,B12C,FG-10006
+12 months,Flax Oil,16 oz,$15.83,$26.49,705875000130,B16C,FG-10011
+12 months,Flax Oil,32 oz,$30.08,$48.99,705875000031,B32C,FG-10022
+36 months,Flax Softgels,100 ct,$9.28,$15.49,705875100014,BFC100,FG-10078
+36 months,Flax Softgels,250 ct,$22.23,$36.99,705875100021,BFC250,FG-10080
+12 months,Flax Oil for Animals,12 oz,$9.77,$16.99,705875200011,BP12,FG-10110
+12 months,Total Omega  3𡑱 Lemonade Flavor,16 oz,$23.11,$38.49,705875000246,BTO16,FG-10115
+36 months,Total Omega 3𡑱 Lemonade Flavor Softgels,90 ct,$18.35,$30.49,705875100205,BTO90,FG-10116
+12 months,Lignan Omega Twin,12 oz,$21.45,$35.49,705875100113,B12OTHL,FG-10009
+12 months,Vegan Omega; Flax & Algae Oil Blend - NEW! Available Now!,16 oz,$21.00,$34.99,705875802185,FG-10242,FG-10242
+18 months,Organic Coconut Oil,16 oz,$11.42,$18.99,705875000253,B16CO,FG-10013
+18 months,Organic Coconut Oil,32 oz,$20.40,$33.99,705875000437,B32CO,FG-10024
+36 months,Evening Primrose Oil Softgels,60 ct,$12.33,$20.99,705875100175,BEPO60,FG-10074
+36 months,Evening Primrose Oil Softgels,120 ct,$22.72,$38.99,705875100182,BEPO120,FG-10073
+36 months,Borage Oil Softgels,60 ct,$20.46,$33.99,705875100045,BBRC60,FG-10036
+12 months,Essential Woman,12 oz,$21.55,$35.99,705875000154,EW12,FG-10145
+36 months,Essential Woman Softgels,120 ct,$22.29,$36.99,705875100137,EW120,FG-10146
+36 months,Ideal Omega3 Softgels,30 ct  ,$15.68,$25.99,705875610209,BIO30,FG-10100
+36 months,Ideal Omega3 Softgels,60 ct,$28.62,$47.99,705875610193,BIO60,FG-10101
+12 months,Fresh Catch Fish Oil Orange Flavor,8 oz,$17.54,$28.99,705875600019,B08FOO,FG-10002
+36 months,Fresh Catch Fish Oil Softgels Orange Flavor,100 ct,$8.54,$13.99,705875610070,BFOC100,FG-10089
+36 months,Fresh Catch Fish Oil Softgels Orange Flavor,250 ct,$18.60,$29.99,705875610087,BFOC250,FG-10090
+12 months,Fresh Catch Cod Liver Oil Lemonade Flavor,8 oz,$16.51,$27.99,705875600026,B08COL,FG-10001
+36 months,Fresh Catch Ultra EPA-DHA Softgels,60 ct,$18.60,$29.99,705875610063,BFCED60,FG-10085
+12 months,Chirpin� Slurpin� Lemonade Fish Oil,8 oz,$10.61,$17.99,705875600057,BKE08FL,FG-10104
+12 months,Lipsmackin扖itrus Fish Oil,8 oz,$11.59,$18.99,705875801041,FG-10182,FG-10182
+12 months,Sensational Straw-nana Flax Oil,8 oz,$8.97,$14.99,705875801034,FG-10183,FG-10183
+12 months,Hooty Fruity Tangerine Fish Oil + Eye,8 oz,$11.59,$18.99,705875801058,FG-10184,FG-10184
+12 months,High Potency Passion Pineapple Smoothie,16 oz,$22.90,$37.99,705875660037,BE16FPP,FG-10062
+12 months,High Potency Citrus Sorbet,16 oz,$22.90,$37.99,705875600293,BE16FCS,FG-10057
+12 months,High Potency Key Lime Pie,8 oz,$12.17,$19.99,705875600231,BE08FKL,FG-10042
+12 months,High Potency Key Lime Pie,16 oz,$22.90,$37.99,705875600163,BE16FKL,FG-10058
+12 months,Lemon Cr鑝e,8 oz,$10.71,$17.99,705875600088,BE08FL,FG-10043
+12 months,Lemon Cr鑝e,16 oz,$20.38,$33.99,705875600040,BE16FL,FG-10059
+12 months,Mango Peach Smoothie,8 oz,$10.71,$17.99,705875600064,BE08FMP,FG-10044
+12 months,Mango Peach Smoothie,16 oz,$20.38,$33.99,705875600101,BE16FMP,FG-10060
+12 months,Pi馻 Colada,16 oz,$20.38,$33.99,705875600132,BE16FPC,FG-10061
+12 months,Orange Cr鑝e Total Omega,8 oz,$12.25,$20.49,705875000352,BE08TOOC,FG-10048
+12 months,Orange Cr鑝e Total Omega,16 oz,$22.90,$37.99,705875000277,BE16TOOC,FG-10066
+12 months,Pomegranate Blueberry Smoothie Total Omega Vegan,16 oz,$22.90,$37.99,705875002776,BE16TOVPB,FG-10067
+12 months,Chocolate Mint Essential Woman,16 oz,$22.90,$37.99,705875000284,BE16EWCM,FG-10056
+12 months,Strawberry Banana Smoothie,8 oz,$8.97,$14.99,705875000291,BE08SB,FG-10047
+12 months,Strawberry Banana Smoothie,16 oz,$16.83,$27.99,705875000260,BE16SB,FG-10065
+12 months,Blackberry Smoothie,16 oz,$16.83,$27.99,705875000390,BE16B,FG-10052
+12 months,Pink Lemonade Swirl - NEW! Available now,16 oz,$22.90,$37.99,705875802222,FG-10240,FG-10240
+12 months,Ginger Peach Swirl - NEW! Available now,16 oz,$22.90,$37.99,705875802208,FG-10241,FG-10241
+18 months,MCT Coconut,16 oz,$16.83,$27.99,705875000475,BE16MCTC,FG-10063
+18 months,CLA Fresh Apple,16 oz,$24.13,$39.99,705875000468,BE16CLAFA,FG-10053
+12 months,Eye Remedy Tangerine Smoothie,16 oz,$24.13,$39.99,705875600217,BE16ERT,FG-10055
+18 months,Vitamin D3 Strawberry Milkshake,5.6 oz,$6.47,$10.99,705875802178,FG-10213,FG-10213
+36 months,Brevail Capsules,30 ct  ,$14.87,$24.99,705875100267,BV30,FG-10117
+24 months,Chocolate Silk Greens Powder,9.52 oz,$24.53,$39.99,705875300094,BGCS95,FG-10094
+24 months,Superfruit Strawberry Kiwi Greens Powder,9.52 oz,$24.53,$39.99,705875300100,BGSK95,FG-10097
+24 months,Organic Greens Powder,8.47 oz,$29.28,$48.99,705875300025,BG93,FG-10093
+18 months,Digestive Blend Pouch,12 oz,$8.97,$14.99,705875800600,BDB12,FG-10039
+18 months,Forti-Flax Canister,16 oz,$6.38,$10.99,705875100168,BFF,FG-10086
+18 months,Forti-Flax Pouch,14 oz,$5.16,$8.99,705875100243,BFF14,FG-10087
+18 months,Organic Chia Seed Pouch,12 oz,$11.63,$19.99,705875100236,BCS12,FG-10038
+18 months,Flax稢hia稢oconut Blend Pouch ,12 oz,$8.99,$14.99,705875100274,BFCC12,FG-10082
+24 months,Stomach Repair Vanilla Chai Powder,6.35 oz,$26.41,$43.99,705875800761,BSR63,FG-10114
+24 months,Intestinal Repair Mixed Berry Powder,6.35 oz,$26.41,$43.99,705875800792,BIR63,FG-10102
+18 months,Olive Leaf Complex Natural,8 oz,$13.64,$22.99,705875700030,B08OLCN,FG-10004
+18 months,Olive Leaf Complex Natural,16 oz,$24.73,$41.99,705875700047,B16OLCN,FG-10015
+18 months,Olive Leaf Complex Peppermint,8 oz,$13.64,$22.99,705875700009,B08OLCP,FG-10005
+18 months,Olive Leaf Complex Peppermint,16 oz,$24.73,$41.99,705875700016,B16OLCP,FG-10016
+18 months,Olive Leaf Complex Throat Spray Peppermint Flavor ,1.5 oz,$9.54,$15.99,705875700023,BOLTS ,FG-10108
+36 months,Olive Leaf Complex Softgels,60 ct,$17.01,$28.99,705875700085,BOLC60,FG-10107
+36 months,Olive Leaf Complex Softgels,120 ct,$30.80,$52.99,705875700092,BOLC120,FG-10106
